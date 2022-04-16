@@ -1,0 +1,160 @@
+	#index{
+  background-image: url(bg_img.jpg);
+  background-repeat: no-repeat;
+}
+.header{
+	margin-left: 800px;
+    border: 1px solid black;
+    font-size: 30px;
+	color: white;
+	background-color: white;
+	color: black;
+}
+.btn{
+	color: white;
+	font-size: 30px;
+	margin-left: 50px;
+	border: 1px solid black;
+}
+.btn:hover{
+	color: black;
+	background-color: white;
+	cursor: pointer;
+}
+#head{
+	font-size: 25px;
+	text-align: center;
+	color: white;
+	margin-top: 100px;
+}
+#signin{
+	font-size: 20px;
+	font color: white;
+	border: 2px solid whitesmoke;
+	margin-top: 50px;
+	margin-left: 450px;
+	margin-right: 450px;
+  background-image: url(bgimg.jpg);
+  border-collapse: !important;
+  border-radius: 10px;
+
+}
+#div1{
+	text-align: center;
+
+}
+#div2{
+	color: white;
+}
+.button{
+	font size: 10px;
+}
+.sn{
+	color: white;
+	background-color: black;
+	border: 1px solid darkcyan;
+	border-collapse: !important;
+}
+#sgn{
+	font-size: 25px;
+	margin-right: 4px;
+}
+#rstr{
+	background-color: black;
+	margin-right: 30px;
+	border: 1px solid darkcyan;
+    color: whitesmoke;
+	font-size: 20px;
+	border-collapse: !important;
+}
+.sn:hover, .snt:hover{
+	background-color: white;
+	color: black;
+}
+#rstr:hover{
+	background-color: white;
+	color: black;
+}
+#ft:hover{
+	background-color: white;
+	color: black;
+}
+#forgot{
+	 text-align: center;
+	 border: 2px solid whitesmoke;
+	 margin-top: 40px;
+	 margin-left: 500px;
+	 margin-right: 500px;
+	 background-color: lightcyan;
+	 padding-top: 5px;
+	 font-size: 20	px;
+	 border-radius: 6px;
+	 border-collapse: !important;
+}
+#ft{
+	margin-bottom: 5px;
+	border: 1px solid black;
+	border-collapse: !important;
+}
+#div2{
+	font-size: 25px;
+	text-align: center;
+	margin-top: 20px;
+
+}
+#sup{
+	margin-left: 160px;
+	margin-bottom: 10px;
+	font-size: 20px;
+	border: 1px solid black;
+}
+#sup:hover{
+	color: black;
+	background-color: whitesmoke;
+	cursor: pointer;
+}
+#rstrr{
+	color: whitesmoke;
+}
+#certified:hover{
+      color: white;
+    background-color: grey;
+}
+#contact{
+    background-color: lightgrey;
+}
+.ME{
+    margin-left:60px;
+    color: darkgoldenrod;
+    font-size: 40px;
+    font-style: bold;
+}
+.abtme{
+    font-size: 30px;
+    border: 2px solid darkcyan;
+    margin-right: 600px;
+    padding-left: 10px;
+    border-radius: 10px;
+}
+#img1{
+	width: 150px;
+	margin-left:44%;
+	border-radius: 50%;
+}
+#cnm{
+	margin-left: 570px;
+}
+#img2{
+	font-size: 30px;
+	margin-left: 580px;
+	border: 2px solid black;
+	border-radius: 10px;
+}
+#img2:hover{
+	background-color: grey;
+	color: white;
+}
+#note{
+	font-size: 40px;
+	color: whitesmoke;
+}
